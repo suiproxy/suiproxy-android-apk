@@ -4,9 +4,9 @@ Bản phát hành APK cho ứng dụng SuiProxy.
 
 ## Tải bản mới nhất
 
-**[Tải SuiProxy APK (latest)](https://github.com/suiproxy/suiproxy-android-apk/releases/latest/download/SuiProxy.apk)**
+**[⬇ Tải SuiProxy APK (bản mới nhất)](https://github.com/suiproxy/suiproxy-android-apk/releases/latest)**
 
-Hoặc xem toàn bộ phiên bản tại trang [Releases](https://github.com/suiproxy/suiproxy-android-apk/releases).
+Phiên bản hiện tại: **v1.2** — [SuiProxy-v1.2.apk](https://github.com/suiproxy/suiproxy-android-apk/releases/download/v1.2/SuiProxy-v1.2.apk)
 
 ## Cài đặt
 
