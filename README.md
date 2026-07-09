@@ -8,7 +8,7 @@ Bản phát hành APK cho ứng dụng SuiProxy.
 
 Link trên là link cố định — luôn trỏ về bản mới nhất, không bao giờ đổi.
 
-Phiên bản hiện tại: **v1.0.0** · [Xem tất cả releases](https://github.com/suiproxy/suiproxy-android-apk/releases)
+Phiên bản hiện tại: **v1.0.1** · [Xem tất cả releases](https://github.com/suiproxy/suiproxy-android-apk/releases)
 
 ## Cài đặt
 
